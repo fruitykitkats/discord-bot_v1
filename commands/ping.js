@@ -1,3 +1,5 @@
+// Copyright (c) 2020 FruityKitKats. All rights reserved.
+
 module.exports.run = async (bot, message, args) => { 
     
         message.channel.send({embed:{ 
